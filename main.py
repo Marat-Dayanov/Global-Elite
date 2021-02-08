@@ -4,8 +4,8 @@ import requests
 
 pygame.init()
 
-width = 50
-height = 50
+width = 500
+height = 500
 
 screen = pygame.display.set_mode((width, height))
 pygame.display.set_caption('YAHOOOO')
