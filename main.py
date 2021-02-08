@@ -4,7 +4,7 @@ import requests
 
 pygame.init()
 
-width = 500
+width = 50
 height = 50
 
 screen = pygame.display.set_mode((width, height))
